@@ -1,0 +1,8 @@
+Read the following review summaries of the product. These summaries capture the general sentiment of this product. Recommend some possible improvements to the product to make customers happier.
+
+
+<<REVIEWS>>
+
+
+Thorough list of recommended improvements to the product:
+-

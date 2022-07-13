@@ -1,0 +1,8 @@
+Summarize the following product reviews as a list of key strengths, weaknesses, and improvements.
+
+
+<<REVIEWS>>
+
+
+List of all key strengths, weaknesses, and improvments for this product:
+-
